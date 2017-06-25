@@ -23,7 +23,7 @@
 
 ### Технологии:
 
-HTML, HTML5, CSS, CSS3, LESS, Bootstrap, React.js, jQuery, JavaScript, Git, Photoshop, Sketch
+HTML, HTML5, CSS, CSS3, LESS, SASS, Bootstrap, React.js, jQuery, JavaScript, Git, Photoshop, Sketch
 
 ## Опыт работы:
 
@@ -32,6 +32,8 @@ HTML, HTML5, CSS, CSS3, LESS, Bootstrap, React.js, jQuery, JavaScript, Git, Phot
 * [Верстка сайта ивент-агенства "House Party"](http://house-party.com.ua)
 * [Верстка книжного магазина "Грааль"](http://graal-books.com.ua)
 * Верстка сайта книжного магазина *(бизнес стартует, название не придумали, сайт не задеплоили)*
+* [Верстка сайта для аренды и продажи недвижимости "Welcome Batumi"](http://welcome-batumi.com)
+
 
 ### Образование:
 
